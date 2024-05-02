@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Programmer and Web Developer & Tech Enthusiast</h4>
+<h4 align="left">Programmer, Web Developer and Tech Enthusiast</h4>
 
 ###
 
