@@ -47,6 +47,6 @@
 
 ###
 
-<img width="100%" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Laptop" />
+<img src="https://github.com/deuryferreira/deuryferreira/laptop.gif" alt="Laptop" />
 
 ###
