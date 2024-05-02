@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://i.ibb.co/BTgKvGF/laptop.gif" alt="laptop">
+<img with="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFodGhzaTVueHhtbW1udTY4M255MnJycHpoOXM3eTVxcGYxeGc2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="laptop">
 
 
 ###
