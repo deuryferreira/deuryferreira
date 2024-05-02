@@ -47,6 +47,7 @@
 
 ###
 
+<img src="https://i.ibb.co/BTgKvGF/laptop.gif" alt="laptop" border="0">
 <img src="https://github.com/deuryferreira/deuryferreira/laptop.gif" alt="Laptop" />
 
 ###
