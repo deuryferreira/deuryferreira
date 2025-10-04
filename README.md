@@ -20,63 +20,63 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; width: 100%; align-items: start;">
-  
-  <!-- Frontend Column -->
-  <div align="center">
-    <h3>Frontend</h3>
-    <div>
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-    </div>
-  </div>
-
-  <!-- Backend Column -->
-  <div align="center">
-    <h3>Backend</h3>
-    <div>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-    </div>
-  </div>
-
-  <!-- Platforms & Tools Column -->
-  <div align="center">
-    <h3>Platforms & Tools</h3>
-    <div>
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-      <img width="8" />
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-    </div>
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <!-- Frontend Column -->
+    <td align="center" width="33%">
+      <h3>Frontend</h3>
+      <div>
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+      </div>
+    </td>
+    
+    <!-- Backend Column -->
+    <td align="center" width="33%">
+      <h3>Backend</h3>
+      <div>
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+      </div>
+    </td>
+    
+    <!-- Platforms & Tools Column -->
+    <td align="center" width="33%">
+      <h3>Platforms & Tools</h3>
+      <div>
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+        <img width="8" />
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
