@@ -13,7 +13,7 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 
 ### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,html,css&size=40" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,html,css&size=32" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS" />
 </p>
 
 ### **Backend & Databases**
