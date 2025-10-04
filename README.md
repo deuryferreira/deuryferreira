@@ -7,10 +7,10 @@ _🚀 Building scalable solutions within the JavaScript/TypeScript ecosystem._
   <a href="https://www.linkedin.com/in/deury-ferreira-2604ab239/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:deury.fr@gmail.com.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="32" alt="Email" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <a href="https://deuryferreira.vercel.app" target="_blank">
     <img src="https://skillicons.dev/icons?i=link" width="52" height="32" alt="Portfolio" />
   </a>
 </div>
