@@ -40,7 +40,7 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
       </div>
     </td>
     
-    <!-- Backend Column -->
+  <table align="center">
     <td align="center" width="33%">
       <h3>Backend</h3>
       <div>
@@ -57,8 +57,9 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
       </div>
     </td>
-    
+    <table align="center">
     <!-- Platforms & Tools Column -->
+    <table align="center">
     <td align="center" width="33%">
       <h3>Platforms & Tools</h3>
       <div>
