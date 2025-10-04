@@ -31,8 +31,8 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deuryferreira&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deuryferreira&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -49,10 +49,5 @@ Currently exploring **WebSockets** to develop a real-time chat application using
 - 💼 LinkedIn: [Deury Ferreira](https://www.linkedin.com/in/deury-ferreira-2604ab239/)
 - 🌐 Portfolio: [your-portfolio-link.com](https://deuryferreira.vercel.app)
 
----
 
-<div align="center">
-  
-  ![](https://visitor-badge.laobi.icu/badge?page_id=DeuryFerreira.DeuryFerreira)
-  
-</div>
+
