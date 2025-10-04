@@ -37,7 +37,7 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 
 ### **Platforms & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,vscode" alt="Git, Docker, AWS, Vercel, Linux, VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,vscode,subabase" alt="Git, Docker, AWS, Vercel, Linux, VS Code, Supabase"/>
 </p>
 
 ---
