@@ -53,6 +53,6 @@ Currently exploring **WebSockets** to develop a real-time chat application using
 
 <div align="center">
   
-  ![](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=deuryferreira.deuryferreira)
   
 </div>
