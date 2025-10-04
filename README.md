@@ -20,30 +20,11 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-</div>
-
-<br>
-
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; width: 100%;">
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; width: 100%; align-items: start;">
   
   <!-- Frontend Column -->
   <div align="center">
-    <h4>Frontend</h4>
+    <h3>Frontend</h3>
     <div>
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
       <img width="8" />
@@ -61,7 +42,7 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
   <!-- Backend Column -->
   <div align="center">
-    <h4>Backend</h4>
+    <h3>Backend</h3>
     <div>
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
       <img width="8" />
@@ -79,7 +60,7 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
   <!-- Platforms & Tools Column -->
   <div align="center">
-    <h4>Platforms & Tools</h4>
+    <h3>Platforms & Tools</h3>
     <div>
       <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
       <img width="8" />
@@ -97,8 +78,6 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
 </div>
 
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="left">
@@ -108,9 +87,9 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your-email@example.com](mailto:deury.fr@gmail.com)
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 💼 LinkedIn: [Deury Ferreira](https://www.linkedin.com/in/deury-ferreira-2604ab239/)
-- 🌐 Portfolio: [your-portfolio-link.com](https://deuryferreira.vervel.app)
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
