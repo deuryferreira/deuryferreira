@@ -1,112 +1,72 @@
-<h1 align="left">Deury Ferreira</h1>
+<h1 align="left">Deury Ferreira 👋</h1>
 <h3 align="left">Full Stack Developer & Tech Enthusiast</h3>
 
+_🚀 Creando soluciones escalables con el ecosistema JavaScript/TypeScript._
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/deury-ferreira-2604ab239/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="32" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/deury-ferreira-2604ab239/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU_EMAIL@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="32" alt="Email" />
+  </a>
+  <a href="https://TU_PORTAFOLIO.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=link" width="52" height="32" alt="Portfolio" />
+  </a>
 </div>
 
-###
-
-<br>
+---
 
 ## 🚀 About Me
 
-Passionate full-stack developer with expertise in modern web technologies. I specialize in building scalable applications using JavaScript/TypeScript ecosystems and have a strong foundation in both frontend and backend development. Continuously learning and adapting to new technologies to create efficient and user-friendly solutions.
+Soy un apasionado **Full Stack Developer** especializado en tecnologías web modernas. Mi experiencia se centra en la construcción de **aplicaciones escalables** utilizando el ecosistema **JavaScript/TypeScript**. Poseo una sólida base tanto en desarrollo **Frontend** (React, Next.js) como **Backend** (Node.js, Python), siempre buscando implementar soluciones eficientes y amigables para el usuario. Constantemente aprendiendo y adaptándome a las nuevas tendencias tecnológicas.
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,html,css" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS"/>
+</p>
 
-<!-- Frontend Table -->
-<table align="center" style="display: inline-block; width: 30%;">
-  <tr>
-    <td align="center">
-      <h3>Frontend</h3>
-      <div>
-        <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-      </div>
-    </td>
-  </tr>
-</table>
+### **Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,py,express,postgres,mongodb,mysql" alt="Node.js, Python, Express.js, PostgreSQL, MongoDB, MySQL"/>
+</p>
 
-<!-- Backend Table -->
-<table align="center" style="display: inline-block; width: 30%;">
-  <tr>
-    <td align="center">
-      <h3>Backend</h3>
-      <div>
-        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-      </div>
-    </td>
-  </tr>
-</table>
+### **Platforms & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,vscode" alt="Git, Docker, AWS, Vercel, Linux, VS Code"/>
+</p>
 
-<!-- Platforms & Tools Table -->
-<table align="center" style="display: inline-block; width: 30%;">
-  <tr>
-    <td align="center">
-      <h3>Platforms & Tools</h3>
-      <div>
-        <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-        <img width="8" />
-        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
+---
 
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
+
+---
+
+## 💡 I'm Currently Working On
+
+Explorando **WebSockets** para desarrollar una aplicación de chat en tiempo real con Next.js y PostgreSQL.
+
+---
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: **[TU_EMAIL@example.com](mailto:TU_EMAIL@example.com)**
 - 💼 LinkedIn: [Deury Ferreira](https://www.linkedin.com/in/deury-ferreira-2604ab239/)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio: [tu-portafolio-link.com](https://TU_PORTAFOLIO.com)
 
 ---
 
 <div align="center">
-  
-  ![](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-  
+  
+  ![](https://visitor-badge.laobi.icu/badge?page_id=TU_USERNAME.TU_USERNAME)
+  
 </div>
