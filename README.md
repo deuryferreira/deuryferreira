@@ -20,10 +20,12 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
 ## 🛠️ Tech Stack
 
-<table align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+
+<!-- Frontend Table -->
+<table align="center" style="display: inline-block; width: 30%;">
   <tr>
-    <!-- Frontend Column -->
-    <td align="center" width="33%">
+    <td align="center">
       <h3>Frontend</h3>
       <div>
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
@@ -39,9 +41,13 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
         <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
       </div>
     </td>
-    
-  <table align="center">
-    <td align="center" width="33%">
+  </tr>
+</table>
+
+<!-- Backend Table -->
+<table align="center" style="display: inline-block; width: 30%;">
+  <tr>
+    <td align="center">
       <h3>Backend</h3>
       <div>
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
@@ -57,10 +63,13 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
       </div>
     </td>
-    <table align="center">
-    <!-- Platforms & Tools Column -->
-    <table align="center">
-    <td align="center" width="33%">
+  </tr>
+</table>
+
+<!-- Platforms & Tools Table -->
+<table align="center" style="display: inline-block; width: 30%;">
+  <tr>
+    <td align="center">
       <h3>Platforms & Tools</h3>
       <div>
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
@@ -78,6 +87,8 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
     </td>
   </tr>
 </table>
+
+</div>
 
 ## 📊 GitHub Stats
 
