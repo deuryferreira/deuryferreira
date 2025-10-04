@@ -20,37 +20,83 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
 ### Frontend
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img width="12" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
 </div>
 
-### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+<br>
+
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; width: 100%;">
+  
+  <!-- Frontend Column -->
+  <div align="center">
+    <h4>Frontend</h4>
+    <div>
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+    </div>
+  </div>
+
+  <!-- Backend Column -->
+  <div align="center">
+    <h4>Backend</h4>
+    <div>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+    </div>
+  </div>
+
+  <!-- Platforms & Tools Column -->
+  <div align="center">
+    <h4>Platforms & Tools</h4>
+    <div>
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+    </div>
+  </div>
+
 </div>
 
-### Tools & Platforms
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
 </div>
 
 ## 📊 GitHub Stats
@@ -62,9 +108,9 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](mailto:deury.fr@gmail.com)
 - 💼 LinkedIn: [Deury Ferreira](https://www.linkedin.com/in/deury-ferreira-2604ab239/)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 🌐 Portfolio: [your-portfolio-link.com](https://deuryferreira.vervel.app)
 
 ---
 
@@ -73,16 +119,3 @@ Passionate full-stack developer with expertise in modern web technologies. I spe
   ![](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
   
 </div>
-
-
-
-
-
-###
-
-<p align="left">✨ Learning new things everyday<br>🎯 Goals: Create awesome tech tools</p>
-
-
-
-###
-
