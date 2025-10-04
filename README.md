@@ -13,7 +13,7 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 
 ### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,html,css" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,html,css" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS" width="12px"/>
 </p>
 
 ### **Backend & Databases**
@@ -37,17 +37,11 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 
 ---
 
-## 💡 Currently Focused On
-
-Currently exploring **WebSockets** to develop a real-time chat application using Next.js and PostgreSQL, focusing on performance optimization.
-
----
-
 ## 📫 Let's Connect
 
-- 📧 Email: **[YOUR_EMAIL@example.com](mailto:deury.fr@gmail.com)**
+- 📧 Email: **[deury.fr@gmail.com](mailto:deury.fr@gmail.com)**
 - 💼 LinkedIn: [Deury Ferreira](https://www.linkedin.com/in/deury-ferreira-2604ab239/)
-- 🌐 Portfolio: [your-portfolio-link.com](https://deuryferreira.vercel.app)
+- 🌐 Portfolio: [deuryferreira.vercel.app](https://deuryferreira.vercel.app)
 
 
 
