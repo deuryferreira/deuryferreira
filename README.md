@@ -1,20 +1,6 @@
 <h1 align="left">Deury Ferreira 👋</h1>
 <h3 align="left">Full Stack Developer & Tech Enthusiast</h3>
 
-_🚀 Building scalable solutions within the JavaScript/TypeScript ecosystem._
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/deury-ferreira-2604ab239/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="32" alt="LinkedIn" />
-  </a>
-  <a href="mailto:deury.fr@gmail.com.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="52" height="32" alt="Email" />
-  </a>
-  <a href="https://deuryferreira.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=link" width="52" height="32" alt="Portfolio" />
-  </a>
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -37,7 +23,7 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 
 ### **Platforms & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,vscode,subabase" alt="Git, Docker, AWS, Vercel, Linux, VS Code, Supabase"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,vscode,supabase" alt="Git, Docker, AWS, Vercel, Linux, VS Code, Supabase"/>
 </p>
 
 ---
@@ -59,9 +45,9 @@ Currently exploring **WebSockets** to develop a real-time chat application using
 
 ## 📫 Let's Connect
 
-- 📧 Email: **[YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)**
+- 📧 Email: **[YOUR_EMAIL@example.com](mailto:deury.fr@gmail.com)**
 - 💼 LinkedIn: [Deury Ferreira](https://www.linkedin.com/in/deury-ferreira-2604ab239/)
-- 🌐 Portfolio: [your-portfolio-link.com](https://YOUR_PORTAFOLIO.com)
+- 🌐 Portfolio: [your-portfolio-link.com](https://deuryferreira.vercel.app)
 
 ---
 
