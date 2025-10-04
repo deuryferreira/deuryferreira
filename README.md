@@ -12,7 +12,7 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 ## 🛠️ Tech Stack
 
 ### **Frontend**
-<p align="left">
+<p align="left"  style="flex-basis: 32%; text-align: center; border: 1px solid #30363d; padding: 10px; border-radius: 6px;">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript&size=32" alt="React, Next.js, Tailwind CSS, TypeScript" />
 </p>
 
