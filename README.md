@@ -13,17 +13,17 @@ I am a passionate **Full Stack Developer** specializing in modern web technologi
 
 ### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,html,css&size=32" alt="React, Next.js, Tailwind CSS, TypeScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript&size=32" alt="React, Next.js, Tailwind CSS, TypeScript" />
 </p>
 
 ### **Backend & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,py,express,postgres,mongodb,mysql" alt="Node.js, Python, Express.js, PostgreSQL, MongoDB, MySQL"/>
+  <img src="https://skillicons.dev/icons?i=py,express,nestjs,postgres,mongodb,mysql,sqlserver" alt="Node.js, Python, Express.js, PostgreSQL, MongoDB, MySQL"/>
 </p>
 
 ### **Platforms & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,vscode,supabase" alt="Git, Docker, AWS, Vercel, Linux, VS Code, Supabase"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,linux,supabase" alt="Git, Docker, AWS, Vercel, Linux, VS Code, Supabase"/>
 </p>
 
 ---
