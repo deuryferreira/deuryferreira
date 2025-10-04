@@ -1,7 +1,7 @@
 <h1 align="left">Deury Ferreira </h1>
 <h3 align="left">Full Stack Developer & Tech Enthusiast</h3>
 
----
+
 
 ## 🚀 About Me
 
